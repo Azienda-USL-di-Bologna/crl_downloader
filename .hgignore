@@ -1,0 +1,4 @@
+syntax: glob
+config.py
+.idea
+*.pyc
